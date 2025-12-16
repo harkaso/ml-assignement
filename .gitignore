@@ -1,7 +1,5 @@
 datasets/*
 !datasets/.gitkeep
-datasets/outputs/*
-!datasets/outputs/.gitkeep
 models/*
 !models/.gitkeep
 *.csv

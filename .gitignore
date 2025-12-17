@@ -1,3 +1,5 @@
+CIC-IDS-2017/*
+!CIC-IDS-2017/.gitkeep
 datasets/*
 !datasets/.gitkeep
 models/*
